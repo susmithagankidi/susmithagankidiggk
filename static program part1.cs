@@ -4,7 +4,7 @@ namespace samplecode
 {
     class Program
     {
-         int i = 20;
+        public static int i = 20;
         static void Main(string[] args)
         {
             i++;
@@ -13,3 +13,4 @@ namespace samplecode
         }
     }
 }
+
